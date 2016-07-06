@@ -1,0 +1,444 @@
+Cmp-Mod V01 Created by CvPcb (2012-05-01 BZR 3538)-testing date = Mon 06 Aug 2012 03:14:06 PM CEST
+
+BeginCmp
+TimeStamp = /4FFE119D;
+Reference = D1:7;
+ValeurCmp = D;
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFE1197;
+Reference = D1:8;
+ValeurCmp = D;
+IdModule  = DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EC43592;
+Reference = H99;
+ValeurCmp = MECHANICAL;
+IdModule  = ErgoDOXmech;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FDD004A;
+Reference = J1;
+ValeurCmp = USB;
+IdModule  = USBMINImod;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FD9E229;
+Reference = J2;
+ValeurCmp = 3.5mm;
+IdModule  = 4pin35mmAudio;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FD9EE66;
+Reference = J3;
+ValeurCmp = JMP;
+IdModule  = 100PITCH1X3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FD9F052;
+Reference = J4;
+ValeurCmp = JMP;
+IdModule  = 100PITCH1X3;
+EndCmp
+
+BeginCmp
+TimeStamp = /500D1058;
+Reference = JP1;
+ValeurCmp = JUMPER;
+IdModule  = GAP;
+EndCmp
+
+BeginCmp
+TimeStamp = /500D0FCD;
+Reference = JP2;
+ValeurCmp = JUMPER;
+IdModule  = GAP;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F64E802;
+Reference = LED_A1;
+ValeurCmp = LEDa;
+IdModule  = MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F64F01A;
+Reference = LED_B1;
+ValeurCmp = LEDb;
+IdModule  = MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F64F030;
+Reference = LED_C1;
+ValeurCmp = LEDc;
+IdModule  = MX_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FD9DD65;
+Reference = R1;
+ValeurCmp = 2.2kΩ;
+IdModule  = RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FD9DC82;
+Reference = R2;
+ValeurCmp = 2.2kΩ;
+IdModule  = RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F64E80F;
+Reference = RA1;
+ValeurCmp = LEDa;
+IdModule  = RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F64F014;
+Reference = RB1;
+ValeurCmp = LEDb;
+IdModule  = RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F64F036;
+Reference = RC1;
+ValeurCmp = LEDc;
+IdModule  = RESISTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = /501FC519;
+Reference = S1;
+ValeurCmp = STAB200;
+IdModule  = STAB_PCB940;
+EndCmp
+
+BeginCmp
+TimeStamp = /501FC51F;
+Reference = S2;
+ValeurCmp = STAB200;
+IdModule  = STAB_PCB940;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB1DDAB;
+Reference = SW0:7;
+ValeurCmp = SW0:6;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB1DDEB;
+Reference = SW0:8;
+ValeurCmp = SW0:5;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EB1DE18;
+Reference = SW0:9;
+ValeurCmp = SW0:4;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DEDD;
+Reference = SW0:10;
+ValeurCmp = SW0:3;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EAB15BC;
+Reference = SW0:11;
+ValeurCmp = SW0:2;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EAB15C0;
+Reference = SW0:12;
+ValeurCmp = SW0:1;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF9B;
+Reference = SW1:9;
+ValeurCmp = SW1:4;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF9C;
+Reference = SW1:10;
+ValeurCmp = SW1:3;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F3FEDCE;
+Reference = SW1:11;
+ValeurCmp = SW1:2;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF9F;
+Reference = SW1:12;
+ValeurCmp = SW1:1;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFAF;
+Reference = SW1:13;
+ValeurCmp = SW1:0;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFA6;
+Reference = SW2:7;
+ValeurCmp = SW2:6;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFA5;
+Reference = SW2:8;
+ValeurCmp = SW2:5;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFA4;
+Reference = SW2:9;
+ValeurCmp = SW2:4;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFA3;
+Reference = SW2:10;
+ValeurCmp = SW2:3;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFA2;
+Reference = SW2:11;
+ValeurCmp = SW2:2;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFA0;
+Reference = SW2:12;
+ValeurCmp = SW2:1;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFBB;
+Reference = SW2:13;
+ValeurCmp = SW2:0;
+IdModule  = MX_FLIP_XX;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF92;
+Reference = SW3:8;
+ValeurCmp = SW3:5;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF91;
+Reference = SW3:9;
+ValeurCmp = SW3:4;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF90;
+Reference = SW3:10;
+ValeurCmp = SW3:3;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF8F;
+Reference = SW3:11;
+ValeurCmp = SW3:2;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF8D;
+Reference = SW3:12;
+ValeurCmp = SW3:1;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DFAD;
+Reference = SW3:13;
+ValeurCmp = SW3:0;
+IdModule  = MX_FLIP_XX;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF15;
+Reference = SW4:7;
+ValeurCmp = SW4:6;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF18;
+Reference = SW4:8;
+ValeurCmp = SW4:5;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF30;
+Reference = SW4:9;
+ValeurCmp = SW4:4;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF2F;
+Reference = SW4:10;
+ValeurCmp = SW4:3;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF2D;
+Reference = SW4:11;
+ValeurCmp = SW4:2;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF2C;
+Reference = SW4:12;
+ValeurCmp = SW4:1;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D92DF34;
+Reference = SW4:13;
+ValeurCmp = SW4:0;
+IdModule  = MX_FLIP_XX;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFD34F8;
+Reference = SW5:7;
+ValeurCmp = SW5:6;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFD34F2;
+Reference = SW5:8;
+ValeurCmp = SW5:5;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFD34DA;
+Reference = SW5:9;
+ValeurCmp = SW5:4;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFD34E0;
+Reference = SW5:10;
+ValeurCmp = SW5:3;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFD34E6;
+Reference = SW5:11;
+ValeurCmp = SW5:2;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFD34EC;
+Reference = SW5:12;
+ValeurCmp = SW5:1;
+IdModule  = MX_FLIP_DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFD34D4;
+Reference = SW5:13;
+ValeurCmp = SW5:0;
+IdModule  = MX_FLIP_XX;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFE197C;
+Reference = SX0:10;
+ValeurCmp = SX0:3;
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFE1987;
+Reference = SX0:11;
+ValeurCmp = SX0:2;
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFE1290;
+Reference = SX1:7;
+ValeurCmp = SX1:6;
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FFE1283;
+Reference = SX1:8;
+ValeurCmp = SX1:5;
+IdModule  = MX_FLIP;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FDC2FE7;
+Reference = U1;
+ValeurCmp = TEENSY2.0;
+IdModule  = TEENSY_2.0;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FD9DC3E;
+Reference = U2;
+ValeurCmp = MCP23018;
+IdModule  = DIP28_300;
+EndCmp
+
+EndListe
