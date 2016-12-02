@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "ErgoDOX pcb")(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+  (lib (name lib_footprints)(type KiCad)(uri "E:\\Program Files\\KiCad\\lib_footprints")(options "")(descr ""))
+)
